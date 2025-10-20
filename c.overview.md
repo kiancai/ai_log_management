@@ -1,4 +1,4 @@
-# b.overview.md：项目概览与变更记录（供 AI 理解）
+# c.overview.md：项目概览与变更记录（供 AI 理解）
 
 ## 项目基本信息
 - 名称：
@@ -13,11 +13,12 @@
 
 ## 项目结构（目录与关键文件）
 ```
-/XX
-└── ai_logs
+/……/……
+└── ai_log_management
     ├── a.management.md
-    ├── b.overview.md
-    └── c.log.md
+    ├── b.outline.md
+    ├── c.overview.md
+    └── d.log.md
 ```
 
 ## 最近变更
